@@ -178,5 +178,5 @@ sitemap:
 deploy:
   type: git
   repo: https://github.com/ClareChu/doc
-  branch: development
+  branch: master
   message: hello
