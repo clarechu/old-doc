@@ -177,5 +177,6 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ClareChu
-  branch: 
+  repo: https://github.com/ClareChu/doc
+  branch: development
+  message: hello
