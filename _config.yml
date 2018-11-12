@@ -179,4 +179,4 @@ deploy:
   type: git
   repo: https://github.com/ClareChu/doc
   branch: master
-  message: hello
+  message: deploy
