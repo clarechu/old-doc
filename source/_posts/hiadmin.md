@@ -161,4 +161,3 @@ hinode的作用主要是在于针对代码的编译，比如java的 `mvn clean i
 image： `docker.vpclub.cn/hidevopsio/hinode-java-jar:1.22`
 
 hinode 是由`hiadmin`发送指令进行操作的
-
