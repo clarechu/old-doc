@@ -78,13 +78,13 @@ hiadmin该服务主要负责启动pipeline，任务调度， 针对k8s 资源`c
         terminationGracePeriodSeconds: 30
         volumes:
         - hostPath:
-          path: /var/lib/docker
-          type: ""
-        name: volume1
+            path: /var/lib/docker
+            type: ""
+          name: volume1
         - hostPath:
-          path: /var/run/docker.sock
-          type: ""
-        name: volume2
+            path: /var/run/docker.sock
+            type: ""
+          name: volume2
     ```
 
 2. 创建hiadmin的service
@@ -101,7 +101,7 @@ hiadmin该服务主要负责启动pipeline，任务调度， 针对k8s 资源`c
         port: 8080
         protocol: TCP
         targetPort: 8080
-     - name: 7575-tcp
+      - name: 7575-tcp
         port: 7575
         protocol: TCP
         targetPort: 7575
