@@ -8,7 +8,23 @@
 
     <url>
         <loc>http://yoursite-url/2018/11/12/hiadmin/</loc>
-        <lastmod>2018-11-12T07:23:00.803Z</lastmod>
+        <lastmod>2018-11-19T15:42:12.837Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/2018/11/19/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+        <lastmod>2018-11-19T15:42:12.837Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/2018/11/12/crd/</loc>
+        <lastmod>2018-11-19T15:42:12.834Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
